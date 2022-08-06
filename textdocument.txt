@@ -6,3 +6,5 @@ Programa: Contagem de numeros
       Breve descricao:
       Este programa faz a leitura de N números inteiros
         e conta quantos são positivos, negativos e nulos 
+
+ criando uma nova linha
