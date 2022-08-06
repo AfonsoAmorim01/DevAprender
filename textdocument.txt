@@ -1,0 +1,8 @@
+Programa: Contagem de numeros
+      Autor: Jose da Silva (RA 012345)
+      Turma MC102X
+      Versao: a
+      Concluída em: 28/02/2011
+      Breve descricao:
+      Este programa faz a leitura de N números inteiros
+        e conta quantos são positivos, negativos e nulos 
